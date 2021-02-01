@@ -1,3 +1,19 @@
-# Contemporary Issues In Data
+# Millions of people are considering dropping WhatsApp and switching to alternatives such as Signal over data and privacy issues
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+In this document, I discuss two articles that talk about the implications of WhatsApp's decision to share data with Facebook. I present and discuss two opposing views on this important matter. Some people are worried that all of their data would be shared with Facebook under WhatsApp's new terms of service. WhatsApp states that their update does not affect how data is managed between individual users and blames social media misinformation for causing people to panic.
+
+## Article 1: _Why everyone should be using Signal instead of WhatsApp_
+
+In WIRED UK's [Why everyone should be using Signal instead of WhatsApp](https://www.wired.co.uk/article/signal-vs-whatsapp), Orphanides gives five reason why he believes that users of WhatsApp should switch to either Signal or Telegram. 
+
+One argument for switching to Signal is that Signal offers more up-to-date security features such as disappearing messages. Signal also offers featurs that prevent the default unencrypted storage of data to iclould or google drive. I feel that this is one reason why some users are fleeing to Signal. Some people that value their privacy prefer that their messages are not kept in the comapany's database for a long time. Perhaps WhatsApp's update to their terms of services triggered people to look for new messaging applications that do not store/sell their data thus making Signal more appealing. I agree with this argument because greater security and privacy features is a good reason to switch.
+
+WhatsApp's announcement to share some of its data with Facebook is troubling to some. I think that this may be because of Facebook's history of selling their users data to advertisers and their history of having their security breached. Orphanides also says that Signal is open source meaning that their code is published for anyone to view. Perhaps this level of transparancy is what pushed people to switch. I agree with this argument because Signal's transparancy with how user data is used/stored is definitely a positive and a reason to switch.
+
+## Article 2: _WhatsApp clarifies it's not giving all your data to Facebook after surge in Signal and Telegram users_
+
+In _The Verge's_ article [WhatsApp clarifies it's not giving all your data to Facebook after surge in Signal and Telegram users](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification), Statt talks about WhatsApp's response to people moving to Signal. WhatsApp's policy update only affects how data is managed when users interact with business accounts and not with individual friends and family.
+
+In this article, Statt quotes a tweet by WhatsApp stating that "We want to address some rumors and be 100% clear we continue to protect your private messages with end-to-end encryption." Statt also says that "the update has nothing to do with consumer chats or profile data, and instead the change is designed to outline how businesses who use WhatsApp for customer service may store logs of its chats on Facebook servers." If that is the case, I personally would stay with WhatsApp. Although Signal does have some security and privacy features that would be nice to have, WhatsApp at the very least is not planning to send all of its user's data to Facebook, but rather only the one that involves businesses and their customers.
+
+Statt also says that "WhatsApp has become a victim of Facebook's poor privacy reputation." A lot of misinformation regarding the terms of service were spread in social media. People are distrustful of WhatsApp because it is owned by Facebook, a company that has a history of storing and selling user data. I guess after reading this article, I understand the other side of the arguement. WhatsApp isn't that bad.
